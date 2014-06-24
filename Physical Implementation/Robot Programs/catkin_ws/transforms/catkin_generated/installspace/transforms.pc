@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: transforms
+Description: Description of transforms
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

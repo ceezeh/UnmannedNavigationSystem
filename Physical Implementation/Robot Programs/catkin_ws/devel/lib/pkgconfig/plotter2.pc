@@ -1,0 +1,8 @@
+prefix=/home/ceezeh/catkin_ws/devel
+
+Name: plotter2
+Description: Description of plotter2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ceezeh/catkin_ws/devel/lib 
+Requires: 

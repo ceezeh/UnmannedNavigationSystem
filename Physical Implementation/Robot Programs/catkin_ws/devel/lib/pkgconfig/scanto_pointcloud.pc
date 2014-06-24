@@ -1,0 +1,8 @@
+prefix=/home/ceezeh/catkin_ws/devel
+
+Name: scanto_pointcloud
+Description: Description of scanto_pointcloud
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ceezeh/catkin_ws/devel/lib 
+Requires: 

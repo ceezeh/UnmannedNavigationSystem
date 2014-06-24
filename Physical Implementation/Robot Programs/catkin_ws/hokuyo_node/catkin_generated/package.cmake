@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "hokuyo_node")
+set(hokuyo_node_MAINTAINER "Chad Rockey <chadrockey@gmail.com>")
+set(hokuyo_node_DEPRECATED "")
+set(hokuyo_node_VERSION "1.7.8")
+set(hokuyo_node_BUILD_DEPENDS "rosconsole" "roscpp" "sensor_msgs" "driver_base" "self_test" "diagnostic_updater" "dynamic_reconfigure" "log4cxx")
+set(hokuyo_node_RUN_DEPENDS "rosconsole" "roscpp" "sensor_msgs" "driver_base" "self_test" "diagnostic_updater" "dynamic_reconfigure" "log4cxx")
+set(hokuyo_node_BUILDTOOL_DEPENDS "catkin")

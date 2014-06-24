@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "motor_interface")
+set(motor_interface_MAINTAINER "ceezeh <ceezeh@todo.todo>")
+set(motor_interface_DEPRECATED "")
+set(motor_interface_VERSION "0.0.0")
+set(motor_interface_BUILD_DEPENDS "geometry_msgs" "nav_msgs" "roscpp" "rospy" "sensor_msgs" "std_msgs")
+set(motor_interface_RUN_DEPENDS "geometry_msgs" "navi_msgs" "roscpp" "rospy" "sensor_msgs" "std_msgs")
+set(motor_interface_BUILDTOOL_DEPENDS "catkin")

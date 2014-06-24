@@ -1,0 +1,8 @@
+prefix=/home/ceezeh/catkin_ws/devel
+
+Name: collada_parser
+Description: Description of collada_parser
+Version: 1.10.19
+Cflags: -I/home/ceezeh/catkin_ws/src/robot_model/collada_parser/include -I/opt/ros/hydro/include
+Libs: -L/home/ceezeh/catkin_ws/devel/lib -lcollada_parser
+Requires: roscpp urdf_parser_plugin

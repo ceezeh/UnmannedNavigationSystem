@@ -1,0 +1,8 @@
+prefix=/home/ceezeh/catkin_ws/install
+
+Name: odometry_source
+Description: Description of odometry_source
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ceezeh/catkin_ws/install/lib 
+Requires: 

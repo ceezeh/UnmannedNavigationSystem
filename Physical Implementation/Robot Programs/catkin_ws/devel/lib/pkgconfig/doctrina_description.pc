@@ -1,0 +1,8 @@
+prefix=/home/ceezeh/catkin_ws/devel
+
+Name: doctrina_description
+Description: Description of doctrina_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ceezeh/catkin_ws/devel/lib 
+Requires: 

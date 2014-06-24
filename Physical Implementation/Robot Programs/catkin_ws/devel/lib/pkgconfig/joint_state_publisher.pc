@@ -1,0 +1,8 @@
+prefix=/home/ceezeh/catkin_ws/devel
+
+Name: joint_state_publisher
+Description: Description of joint_state_publisher
+Version: 1.10.19
+Cflags: 
+Libs: -L/home/ceezeh/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/ceezeh/catkin_ws/install
+
+Name: transforms
+Description: Description of transforms
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ceezeh/catkin_ws/install/lib 
+Requires: 

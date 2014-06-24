@@ -1,0 +1,8 @@
+prefix=/home/ceezeh/catkin_ws/devel
+
+Name: resource_retriever
+Description: Description of resource_retriever
+Version: 1.10.19
+Cflags: -I/home/ceezeh/catkin_ws/src/robot_model/resource_retriever/include
+Libs: -L/home/ceezeh/catkin_ws/devel/lib -lresource_retriever
+Requires: 

@@ -1,0 +1,2 @@
+cmake_modules:hokuyo_node:laser_geometry:motor_interface:odometry_source:pointcloud_filter:scanto_pointcloud:transforms
+-DCMAKE_CXX_FLAGS=-pthread -std=c++0x -Wl,--no-as-needed

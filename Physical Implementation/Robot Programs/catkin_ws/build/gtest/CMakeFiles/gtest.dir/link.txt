@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -pthread -std=c++0x -Wl,--no-as-needed -g   -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o -L/home/ceezeh/catkin_ws/build/gtest/src -lpthread -Wl,-rpath,/home/ceezeh/catkin_ws/build/gtest/src 

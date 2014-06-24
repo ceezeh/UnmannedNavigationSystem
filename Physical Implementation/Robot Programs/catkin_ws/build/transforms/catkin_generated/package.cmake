@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "transforms")
+set(transforms_MAINTAINER "ceezeh <ceezeh@todo.todo>")
+set(transforms_DEPRECATED "")
+set(transforms_VERSION "0.0.0")
+set(transforms_BUILD_DEPENDS "geometry_msgs" "roscpp" "tf")
+set(transforms_RUN_DEPENDS "geometry_msgs" "roscpp" "tf")
+set(transforms_BUILDTOOL_DEPENDS "catkin")

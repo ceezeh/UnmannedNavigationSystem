@@ -1,0 +1,8 @@
+prefix=/home/ceezeh/catkin_ws/devel
+
+Name: collada_urdf
+Description: Description of collada_urdf
+Version: 1.10.19
+Cflags: -I/home/ceezeh/catkin_ws/src/robot_model/collada_urdf/include
+Libs: -L/home/ceezeh/catkin_ws/devel/lib -lcollada_urdf
+Requires: angles collada_parser resource_retriever urdf geometric_shapes tf

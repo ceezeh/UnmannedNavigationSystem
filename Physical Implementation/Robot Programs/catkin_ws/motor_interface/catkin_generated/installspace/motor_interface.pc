@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: motor_interface
+Description: Description of motor_interface
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

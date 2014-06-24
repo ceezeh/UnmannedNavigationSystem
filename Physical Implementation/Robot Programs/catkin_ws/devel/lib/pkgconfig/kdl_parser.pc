@@ -1,0 +1,8 @@
+prefix=/home/ceezeh/catkin_ws/devel
+
+Name: kdl_parser
+Description: Description of kdl_parser
+Version: 1.10.19
+Cflags: -I/home/ceezeh/catkin_ws/src/robot_model/kdl_parser/include -I/usr/include/eigen3 -I/opt/ros/hydro/include -I/usr/include
+Libs: -L/home/ceezeh/catkin_ws/devel/lib -lkdl_parser -l:/usr/lib/libtinyxml.so
+Requires: roscpp rosconsole urdf

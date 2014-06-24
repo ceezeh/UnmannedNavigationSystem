@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cmake_modules")
+set(cmake_modules_MAINTAINER "William Woodall <william@osrfoundation.org>")
+set(cmake_modules_DEPRECATED "")
+set(cmake_modules_VERSION "0.3.0")
+set(cmake_modules_BUILD_DEPENDS )
+set(cmake_modules_RUN_DEPENDS )
+set(cmake_modules_BUILDTOOL_DEPENDS "catkin")

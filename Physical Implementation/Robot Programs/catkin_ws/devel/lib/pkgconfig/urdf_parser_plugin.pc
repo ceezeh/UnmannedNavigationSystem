@@ -1,0 +1,8 @@
+prefix=/home/ceezeh/catkin_ws/devel
+
+Name: urdf_parser_plugin
+Description: Description of urdf_parser_plugin
+Version: 1.10.19
+Cflags: -I/home/ceezeh/catkin_ws/src/robot_model/urdf_parser_plugin/include -I/opt/ros/hydro/include
+Libs: -L/home/ceezeh/catkin_ws/devel/lib 
+Requires: 

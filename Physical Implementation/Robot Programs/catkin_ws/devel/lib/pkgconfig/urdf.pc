@@ -1,0 +1,8 @@
+prefix=/home/ceezeh/catkin_ws/devel
+
+Name: urdf
+Description: Description of urdf
+Version: 1.10.19
+Cflags: -I/home/ceezeh/catkin_ws/src/robot_model/urdf/include -I/usr/include -I/opt/ros/hydro/include
+Libs: -L/home/ceezeh/catkin_ws/devel/lib -lurdf -l:/opt/ros/hydro/lib/liburdfdom_sensor.so -l:/opt/ros/hydro/lib/liburdfdom_model_state.so -l:/opt/ros/hydro/lib/liburdfdom_model.so -l:/opt/ros/hydro/lib/liburdfdom_world.so -l:/opt/ros/hydro/lib/libconsole_bridge.so -l:/usr/lib/libboost_thread-mt.so
+Requires: rosconsole_bridge roscpp

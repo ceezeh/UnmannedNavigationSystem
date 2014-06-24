@@ -1,0 +1,8 @@
+prefix=/home/ceezeh/catkin_ws/install
+
+Name: motor_interface
+Description: Description of motor_interface
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ceezeh/catkin_ws/install/lib 
+Requires: 
