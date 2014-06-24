@@ -10,7 +10,7 @@ UnmannedNavigationSystem
 <li> Motor Testing: contains codes used to test and verify motor performance.</li>
 <li> Presentation: Powerpoint presentation showing project overview and demo.</li>
 </ol>
-<h2> Simulation Instruction <h2>
+<h2> Simulation Instruction </h2>
 <ul>
 <li>	To run simulation results, first enter the directory containing install.m and run it from there.</li>
 <li>	To see mpc results for a random feasible trajectory, run mpc.m</li>
