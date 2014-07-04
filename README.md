@@ -1,4 +1,4 @@
-UnmannedNavigationSystem
+Unmanned Navigation System
 ========================
 
 <b>This is my final year MEng in EEE project where I investigate Path Planning and Control for Autonomous Vehicles.</b>
